@@ -7,3 +7,5 @@ All project are Eclipse Java projects, project descriptor are in the repository.
 * BlockingQueue/ : Simple blocking queue (+ junit test)
 
 * PrerequisitesClasses/ : Taken from topcoder.com, Class ordering with predecessor...
+
+* EightQueensPuzzle : First version of Eight Queens Puzzle, UI is pretty basic (Swing)
