@@ -1,5 +1,9 @@
-Biggest64bitUnsignedInteger : Given 10^12 64 bit uniformly random unsigned integers, select the smallest 10^6. (+ junit test)
+--------------------------------------------------------------------------------
+All project are Eclipse Java projects, project descriptor are in the repository.
+--------------------------------------------------------------------------------
 
-BlockingQueue : Simple blocking queue (+ junit test)
+* Biggest64bitUnsignedInteger/ : Given 10^12 64 bit uniformly random unsigned integers, select the smallest 10^6. (+ junit test)
 
-PrerequisitesClasses : Taken from topcoder.com, Class ordering with predecessor...
+* BlockingQueue/ : Simple blocking queue (+ junit test)
+
+* PrerequisitesClasses/ : Taken from topcoder.com, Class ordering with predecessor...
